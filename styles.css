@@ -10,11 +10,7 @@ body {
     height: 100vh;
 }
 
-h1 {
-    position: relative;
-    top: -250px;
-    left: 260px;
-}
+
 
 .terminal {
     background-color: black;
