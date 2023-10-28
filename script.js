@@ -1,6 +1,6 @@
 const inputField = document.querySelector('.input');
 const outputField = document.querySelector('.output');
-const welcomeMessage1 = "Welcome to Your RPG Game Terminal!";
+const welcomeMessage1 = "Welcome to Your Game Terminal!";
 const welcomeMessage2 = "Type 'Let's play a game' to begin.";
 
 // Define the game options with corresponding links
